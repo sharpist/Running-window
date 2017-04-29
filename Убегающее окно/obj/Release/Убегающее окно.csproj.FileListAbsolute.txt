@@ -1,0 +1,8 @@
+C:\Users\humAn\Documents\Visual Studio 2015\Projects\Убегающее окно\Убегающее окно\bin\Release\Убегающее окно.exe.config
+C:\Users\humAn\Documents\Visual Studio 2015\Projects\Убегающее окно\Убегающее окно\bin\Release\Убегающее окно.exe
+C:\Users\humAn\Documents\Visual Studio 2015\Projects\Убегающее окно\Убегающее окно\bin\Release\Убегающее окно.pdb
+C:\Users\humAn\Documents\Visual Studio 2015\Projects\Убегающее окно\Убегающее окно\obj\Release\Убегающее_окно.Form1.resources
+C:\Users\humAn\Documents\Visual Studio 2015\Projects\Убегающее окно\Убегающее окно\obj\Release\Убегающее_окно.Properties.Resources.resources
+C:\Users\humAn\Documents\Visual Studio 2015\Projects\Убегающее окно\Убегающее окно\obj\Release\Убегающее окно.csproj.GenerateResource.Cache
+C:\Users\humAn\Documents\Visual Studio 2015\Projects\Убегающее окно\Убегающее окно\obj\Release\Убегающее окно.exe
+C:\Users\humAn\Documents\Visual Studio 2015\Projects\Убегающее окно\Убегающее окно\obj\Release\Убегающее окно.pdb

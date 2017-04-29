@@ -1,0 +1,9 @@
+c:\users\human\documents\visual studio 2015\Projects\Убегающее окно\Убегающее окно\bin\Debug\Убегающее окно.exe.config
+c:\users\human\documents\visual studio 2015\Projects\Убегающее окно\Убегающее окно\bin\Debug\Убегающее окно.exe
+c:\users\human\documents\visual studio 2015\Projects\Убегающее окно\Убегающее окно\bin\Debug\Убегающее окно.pdb
+c:\users\human\documents\visual studio 2015\Projects\Убегающее окно\Убегающее окно\obj\Debug\Убегающее окно.csprojResolveAssemblyReference.cache
+c:\users\human\documents\visual studio 2015\Projects\Убегающее окно\Убегающее окно\obj\Debug\Убегающее_окно.Form1.resources
+c:\users\human\documents\visual studio 2015\Projects\Убегающее окно\Убегающее окно\obj\Debug\Убегающее_окно.Properties.Resources.resources
+c:\users\human\documents\visual studio 2015\Projects\Убегающее окно\Убегающее окно\obj\Debug\Убегающее окно.csproj.GenerateResource.Cache
+c:\users\human\documents\visual studio 2015\Projects\Убегающее окно\Убегающее окно\obj\Debug\Убегающее окно.exe
+c:\users\human\documents\visual studio 2015\Projects\Убегающее окно\Убегающее окно\obj\Debug\Убегающее окно.pdb
